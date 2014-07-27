@@ -15,7 +15,7 @@ The script prepares two clean datasets and writes them into two text files.
 The files are enclosed in this repo.
 
 Codebook.md contains the description of all transformations performed to clean up the raw data,
-as well as the detailed description of all the vatiables.
+as well as the detailed description of all the variables.
 
 ### Script Elucidation
 
