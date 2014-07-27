@@ -68,8 +68,8 @@ Replaces row numbers with values from 1 to 180, and records the final clean data
 
 ### Instructions
 
-(1) Download the zip archive:   
-<https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip>
-(2) Place the zip file into your R working directory. 
-(3) Download the run_analysis.R from this repo.
+(1) Download the zip archive:    
+<https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip>   
+(2) Place the zip file into your R working directory.   
+(3) Download the run_analysis.R from this repo.   
 (4) Launch the run_analysis.R.
